@@ -9,24 +9,24 @@ global.prems = []
 global.kontak = ['6285797375014']
 
 //  INFO BOT 
-global.naown = 'Kpy'
+global.naown = 'Kyvone'
 global.noown = '6285797375014'
-global.namebot = 'Etes'
+global.namebot = 'kyvone'
 global.nobot = '6285797375014'
 
 //  URL SOSMED
-global.instagram = 'https://instagram.com/znxphoenix'
-global.github = 'https://github.com/cibe-ofc'
+global.instagram = 'https://instagram.com/lynxofcid'
+global.github = 'https://github.com/c'
 global.gc = 'https://chat.whatsapp.com/B6NS1pwwv1s6Bf7ZrIv2Q2'
-global.web = 'https://instagram.com/znxphoenix?igshid=YmMyMTA2M2Y=' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'https://instagram.com/lynxofcid' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.saweria = 'https://sociabuzz.com/aic'
 
 // PAYMANT 
-global.dana = '085797375014'
-global.pulsa = '085797375014'
-global.gopay = '085797375014'
-global.shopay = '085797375014'
-global.ovo = '085797375014'
+global.dana = 'chatowner'
+global.pulsa = 'chatowner'
+global.gopay = 'chatowner'
+global.shopay = 'chatowner'
+global.ovo = 'chatowner'
 
 // PROFILE ALL 
 global.ppreg = 'https://telegra.ph/file/445721f7cdab701543840.jpg'
@@ -54,10 +54,10 @@ global.fsizedoc = '99999999999999' // default 10TB
 global.fpagedoc = '999'
 
 // WATERMARK  
-global.wm = 'ᬊᬁ 𝐊𝐔𝐏𝐑𝐎𝐘'
+global.wm = 'ᬊᬁ ᴋʏᴠᴏɴᴇ'
 global.watermark = wm
-global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 𝐄𝐭𝐞𝐬'
-global.wm3 = '⫹⫺ 𝐊𝐔𝐏𝐑𝐎𝐘 | BOT WHATSAPP MD'
+global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 ᴋʏᴠᴏɴᴇ'
+global.wm3 = '⫹⫺ ᴋʏᴠᴏɴᴇ | BOT WHATSAPP MD'
 global.tb = 'WHATSAPP BOT MULTI DEVICE'
 
 //  DEFAULT MENU  
@@ -104,8 +104,8 @@ global.salah = 'Salah ❌\n'
 
 // WATERMARK STICKER 
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'KUPROY'
-global.author = 'By Etes'
+global.packname = 'ᴋʏᴠᴏɴᴇ'
+global.author = 'By ᴋʏᴠᴏɴᴇ'
 
 //  APIKEY ANDA 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
